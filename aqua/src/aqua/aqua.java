@@ -3,8 +3,7 @@ package aqua;
 public class aqua {
 
 	public static void main(String[] args) {
-		System.out.println("dd");
-		System.out.println("1234");
+		System.out.println("xyz");
 	}
 	
 	private void method1() {
