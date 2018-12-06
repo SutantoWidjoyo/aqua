@@ -5,6 +5,7 @@ public class aqua {
 	public static void main(String[] args) {
 		System.out.println("xyz");
 		System.out.println("aaa");
+		System.out.println("bbb");
 	}
 	
 	private void method1() {
