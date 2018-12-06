@@ -18,4 +18,7 @@ public class aqua {
 	private void method3() {
 		
 	}
+	private void method4() {
+		
+	}
 }
