@@ -3,7 +3,9 @@ package aqua;
 public class aqua {
 
 	public static void main(String[] args) {
-		//fetch test
+		System.out.println("a");
+		System.out.println("b");
+		System.out.println("c");
 	}
 
 }
