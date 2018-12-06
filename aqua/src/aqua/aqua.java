@@ -10,6 +10,7 @@ public class aqua {
 	
 	private void method1() {
 		System.out.println("1234");
+		System.out.println("5678");
 	}
 	
 	
