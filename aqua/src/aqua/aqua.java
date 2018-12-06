@@ -6,6 +6,7 @@ public class aqua {
 		System.out.println("xyz");
 		System.out.println("aaa");
 		System.out.println("bbb");
+		System.out.println("ccc");
 	}
 	
 	private void method1() {
