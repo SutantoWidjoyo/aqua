@@ -9,5 +9,8 @@ public class aqua {
 		System.out.println("dd");
 		System.out.println("1234");
 	}
-
+	
+	private void method1() {
+		
+	}
 }
