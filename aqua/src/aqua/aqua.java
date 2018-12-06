@@ -7,6 +7,7 @@ public class aqua {
 		System.out.println("sss");
 		System.out.println("vvv");
 		System.out.println("xxx");
+		System.out.println("1234");
 	}
 
 }
