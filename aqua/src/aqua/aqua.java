@@ -8,14 +8,17 @@ public class aqua {
 	}
 	
 	private void method1() {
-		
+		System.out.println("1234");
 	}
 	
 	private void method2() {
-		
+		System.out.println("1234");
 	}
 	
 	private void method3() {
+		
+	}
+	private void method4() {
 		
 	}
 }
